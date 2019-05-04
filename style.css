@@ -1,0 +1,15 @@
+.container {
+  display: grid;
+  /* height: 320px;
+  width: 320px;
+  grid-template-columns: repeat(16, 20px);
+  grid-template-rows: repeat(16, 20px); */
+}
+.square {
+  background-color: green;
+  width: 90%;
+  height: 90%;
+}
+.hovered {
+  background-color: blue;
+}
